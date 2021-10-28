@@ -1,4 +1,4 @@
-@media screen and (max-width: 800px) {
+@media screen {
     .item {
         height: 100px;
         width: 100px;
@@ -55,7 +55,7 @@
             background-color: #f2c6ff;
         }
 }
-@media handheld and (max-width: 600px) {
+@media handheld {
     .item {
         height: 90px;
         width: 90px;
